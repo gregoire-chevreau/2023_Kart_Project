@@ -10,7 +10,7 @@ Ce dernier est composé d'une carte de commande avec la NUCLEO STM32G431RB ainsi
 - [Onduleur](#onduleur)
 - [Code](#code)
 
-## Cahier des charges
+## charges
 
 Décrivez ici les étapes nécessaires pour installer votre projet. Par exemple :
 
