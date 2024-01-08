@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Importés_onduleur")(type "KiCad")(uri "${KIPRJMOD}/libs/Importés_onduleur.pretty")(options "")(descr ""))
+)

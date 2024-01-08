@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLV76150DCYR")(type "KiCad")(uri "${KIPRJMOD}/libs/TVL76150DCYR/TLV76150DCYR.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV76133DCYR")(type "KiCad")(uri "${KIPRJMOD}/libs/TLV76133DCYR/TLV76133DCYR.kicad_sym")(options "")(descr ""))
+  (lib (name "IQ1515SA")(type "KiCad")(uri "${KIPRJMOD}/libs/IQ1515SA/IQ1515SA.kicad_sym")(options "")(descr ""))
+  (lib (name "CD4010BNSR")(type "KiCad")(uri "${KIPRJMOD}/libs/CD4010BNSR/CD4010BNSR.kicad_sym")(options "")(descr ""))
+  (lib (name "282837-2")(type "KiCad")(uri "${KIPRJMOD}/libs/15Volts/282837-2.kicad_sym")(options "")(descr ""))
+  (lib (name "1-5227161-7")(type "KiCad")(uri "${KIPRJMOD}/libs/3BNC/1-5227161-7.kicad_sym")(options "")(descr ""))
+  (lib (name "LD051A121KAB2A")(type "KiCad")(uri "${KIPRJMOD}/libs/Capacitor_imp/LD051A121KAB2A.kicad_sym")(options "")(descr ""))
+  (lib (name "5221123-2")(type "KiCad")(uri "${KIPRJMOD}/libs/Coax_Straight/5221123-2.kicad_sym")(options "")(descr ""))
+  (lib (name "5001")(type "KiCad")(uri "${KIPRJMOD}/libs/Test/5001.kicad_sym")(options "")(descr ""))
+)

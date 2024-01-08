@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5221123-2
+D JACK,PCB,VERT,COMMERCIAL BNC
+K
+F https://componentsearchengine.com/Datasheets/1/5221123-2.pdf
+$ENDCMP
+#
+#End Doc Library

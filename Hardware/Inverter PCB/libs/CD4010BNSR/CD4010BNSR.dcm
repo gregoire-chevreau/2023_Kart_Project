@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD4010BNSR
+D Buffers & Line Drivers CMOS Hex Non-Inv Buffer/Converter
+K
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4010b
+$ENDCMP
+#
+#End Doc Library

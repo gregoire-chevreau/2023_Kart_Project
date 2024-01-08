@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SUM60N10-17-E3")(type "KiCad")(uri "${KIPRJMOD}/libs/SUM60N10-17-E3/SUM60N10-17-E3.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS2836DR")(type "KiCad")(uri "${KIPRJMOD}/libs/TP2836DR/TPS2836DR.kicad_sym")(options "")(descr ""))
+  (lib (name "TEN_30-4813WIN")(type "KiCad")(uri "${KIPRJMOD}/libs/TEN_30-4813WIN/TEN_30-4813WIN.kicad_sym")(options "")(descr ""))
+  (lib (name "MCS1806GS-5-50-P")(type "KiCad")(uri "${KIPRJMOD}/libs/MCS1806GS-5-50-P/MCS1806GS-5-50-P.kicad_sym")(options "")(descr ""))
+  (lib (name "XT90PW-M")(type "KiCad")(uri "${KIPRJMOD}/libs/XT90PW-M/XT90PW-M.kicad_sym")(options "")(descr ""))
+)

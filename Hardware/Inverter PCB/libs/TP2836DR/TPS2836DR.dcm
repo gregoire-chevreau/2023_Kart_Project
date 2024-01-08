@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2836DR
+D Gate Drivers Non-inv Fast Sync Buck MOSFET Driver
+K
+F https://www.ti.com/lit/ds/symlink/tps2836.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SUM60N10-17-E3
+D MOSFET 100V 60A 150W
+K
+F https://www.arrow.com/en/products/sum60n10-17-e3/vishay
+$ENDCMP
+#
+#End Doc Library

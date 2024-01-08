@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCS1806GS-5-50-P
+D Board Mount Hall Effect / Magnetic Sensors 3kVRMS Isolated Hall-Effect Current Sensor with 500VRMS Working Voltage, +/-2.5% Accuracy
+K
+F https://www.mouser.de/datasheet/2/277/MCS1806GS-3073842.pdf
+$ENDCMP
+#
+#End Doc Library

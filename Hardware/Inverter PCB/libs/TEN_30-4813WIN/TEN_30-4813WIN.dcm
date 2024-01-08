@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEN_30-4813WIN
+D 30 Watt DC/DC converter, industrial, 4:1 input, encapsulated, 2" x 1" metal package
+K
+F https://tracopower.com/ten30win-datasheet/
+$ENDCMP
+#
+#End Doc Library
